@@ -49,11 +49,11 @@ When assessing school summaries and performing schools, the score replacements d
 * **How does replacing the ninth-grade scores affect the following:**
   * Math and reading scores by grade
   * 
-  ####Reading
+  #### Reading
   
   <img width="231" alt="Reading_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545580-b61f8d5e-aec9-49ee-b999-699ebd4f8466.PNG">
 
-  #####Math
+  ##### Math
   
   <img width="234" alt="Math_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545621-b1fb2cd7-2cef-4ede-972e-2ca86fde31b7.PNG">
 
