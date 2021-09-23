@@ -20,7 +20,7 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
   ##### Scrubbed District Summary
 
-  <img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134519308-064894e8-c08c-4a31-a2f9-e841aa35fdc2.PNG">
+  ![Per_School_Summary_Scrubbed](https://user-images.githubusercontent.com/89538802/134528515-4218c2bb-3a38-4b99-824e-39dcf36b985b.PNG)
 
 
 * How is the school summary affected?
