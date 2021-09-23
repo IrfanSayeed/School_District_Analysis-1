@@ -13,12 +13,9 @@ The purpose of the school district anlaysis is to aggregate the data to provide 
 ## **Results:**
 The removal of the grade 9 Thomas High School scores affected the results of the School District Analysis as follows:
 
-* How is the district summary affected?
+* **How is the district summary affected?**
   The average math score changed by -.1% when the analysis was rerun after the grade 9 Thomas High School data was scrubbed.
-  
-  * How is the school summary affected?
-    The school summary is affected bt - .1% on the average math score
-    
+      
   ##### Original District Summary
 
   <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
@@ -27,7 +24,8 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
   <img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134528624-bc9d17c2-a820-42e5-b825-332fcb0b8603.PNG">
 
-
+ * **How is the school summary affected?**
+ 
   ##### Original Per School Summary
   
   ![Per_School_Summary_Original](https://user-images.githubusercontent.com/89538802/134528076-2f2211f3-29de-455b-beba-3157935b0633.PNG)
@@ -37,8 +35,13 @@ The removal of the grade 9 Thomas High School scores affected the results of the
   ![Per_School_Summary_Scrubbed](https://user-images.githubusercontent.com/89538802/134528515-4218c2bb-3a38-4b99-824e-39dcf36b985b.PNG)
 
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-* How does replacing the ninth-grade scores affect the following:
+***How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+
+
+
+
+
+* **How does replacing the ninth-grade scores affect the following:**
   * Math and reading scores by grade
   * Scores by school spending
   * Scores by school size
