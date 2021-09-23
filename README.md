@@ -27,9 +27,9 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
   ##### Original Per School Summary
   
-  
+  ![Per_School_Summary_Original](https://user-images.githubusercontent.com/89538802/134528076-2f2211f3-29de-455b-beba-3157935b0633.PNG)
 
-  
+ 
   ##### Scrubbed Per School Summary
   <img width="737" alt="Per_School_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134526319-4ecff465-2a4a-497c-81df-6f6135f5a6f1.PNG">
 
