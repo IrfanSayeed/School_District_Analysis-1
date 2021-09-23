@@ -6,7 +6,7 @@ The school board has notified Maria and her supervisor that the students_complet
 
 
 
-Anaconda software
+Software used:  Anaconda software
 
 
 ## **Overview of the school district analysis:**
