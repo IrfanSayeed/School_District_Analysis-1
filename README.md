@@ -7,7 +7,7 @@ The school board has notified Maria and her supervisor that the students_complet
 
 
 ## **Overview of the school district analysis:**
-The purpose is to aggregate the data to provide insights on performance trends and patterns on all standardized test data for analysis, reporting and presentations. This will allow the school board to have informed discussions and make strategic decisios on student funding, budgets and school priorities.
+The purpose of the school district anlaysis is to aggregate the data to provide insights on performance trends and patterns on all standardized test data for analysis, reporting and presentations. This will allow the school board to have informed discussions and make strategic decisios on student funding, budgets and school priorities.
 
 ## **Results:**
 Using bulleted lists and images of DataFrames as support, address the following questions.
