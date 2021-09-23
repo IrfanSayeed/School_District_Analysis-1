@@ -13,6 +13,11 @@ The purpose of the school district anlaysis is to aggregate the data to provide 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
+<img width="709" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134519219-f93d0302-2216-4b53-88c0-4ee1752c4f2b.PNG">
+
+<img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134519308-064894e8-c08c-4a31-a2f9-e841aa35fdc2.PNG">
+
+
 * How is the school summary affected?
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
