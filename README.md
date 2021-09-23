@@ -14,11 +14,11 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 * How is the district summary affected?
 
-  ###Original District Summary
+  ### Original District Summary
 
   <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
 
-  ###Scrubbed District Summary
+  ### Scrubbed District Summary
 
   <img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134519308-064894e8-c08c-4a31-a2f9-e841aa35fdc2.PNG">
 
