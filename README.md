@@ -13,7 +13,7 @@ The purpose of the school district anlaysis is to aggregate the data to provide 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
-The 
+  The average math score changed by -.1% when the analysis was rerun after the grade 9 Thomas High School data was scrubbed.
   ##### Original District Summary
 
   <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
@@ -24,6 +24,9 @@ The
 
 
 * How is the school summary affected?
+
+
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
