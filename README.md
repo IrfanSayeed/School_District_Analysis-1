@@ -36,6 +36,9 @@ The grade nine math and reading scores for Thomas High School were to be replace
   ##### Scrubbed Per School Summary
   ![Per_School_Summary_Scrubbed](https://user-images.githubusercontent.com/89538802/134528515-4218c2bb-3a38-4b99-824e-39dcf36b985b.PNG)
 
+********************************
+When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district
+***********************************
 
 ***How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
@@ -45,6 +48,13 @@ The grade nine math and reading scores for Thomas High School were to be replace
 
 * **How does replacing the ninth-grade scores affect the following:**
   * Math and reading scores by grade
+  ####SReading
+      <img width="231" alt="Reading_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545580-b61f8d5e-aec9-49ee-b999-699ebd4f8466.PNG">
+
+  #####Math
+      <img width="234" alt="Math_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545621-b1fb2cd7-2cef-4ede-972e-2ca86fde31b7.PNG">
+
+
   * Scores by school spending
   * Scores by school size
   * Scores by school type
