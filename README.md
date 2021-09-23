@@ -15,6 +15,10 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
 * How is the district summary affected?
   The average math score changed by -.1% when the analysis was rerun after the grade 9 Thomas High School data was scrubbed.
+  
+  * How is the school summary affected?
+    The school summary is affected bt - .1% on the average math score
+    
   ##### Original District Summary
 
   <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
@@ -23,9 +27,6 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
   <img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134528624-bc9d17c2-a820-42e5-b825-332fcb0b8603.PNG">
 
-
-
-* How is the school summary affected?
 
   ##### Original Per School Summary
   
