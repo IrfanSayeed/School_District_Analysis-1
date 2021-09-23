@@ -25,6 +25,13 @@ The removal of the grade 9 Thomas High School scores affected the results of the
 
 * How is the school summary affected?
 
+  ##### Original Per School Summary
+  
+  <img width="730" alt="Per_School_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134526310-bc29f67a-17b8-41c6-a27f-4a7bd10841e7.PNG">
+
+  
+  ##### Scrubbed Per School Summary
+  <img width="737" alt="Per_School_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134526319-4ecff465-2a4a-497c-81df-6f6135f5a6f1.PNG">
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
