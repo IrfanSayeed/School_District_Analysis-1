@@ -13,7 +13,7 @@ The purpose of the school district anlaysis is to aggregate the data to provide 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?
-
+The 
   ##### Original District Summary
 
   <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
