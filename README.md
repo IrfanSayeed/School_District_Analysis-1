@@ -44,7 +44,8 @@ Noted changes to the School District Analysis are as noted below:
       * % Passing Reading decreased by 27.5%
       * % Overall Passing decreased by 25.9%
       
-      <img width="596" alt="Top 5 Performing" src="https://user-images.githubusercontent.com/89538802/134614276-3e8f3c12-6148-4b25-a004-119e322a495e.PNG">
+     
+<img width="596" alt="Top 5 Performing" src="https://user-images.githubusercontent.com/89538802/134614353-c6f1523a-a425-4d8b-9995-5dcacfffd3f0.PNG">
 
 * **How does replacing the ninth-grade scores affect the following:**
      * Math and reading scores by grade
