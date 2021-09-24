@@ -71,15 +71,19 @@ Noted changes to the School District Analysis are as noted below:
        that the tampered scores did not affect future calculations.  Had all grade nine scores or all of Thomas High School been subjected to NaN scores,
        both district and school averages would have been negatively impacted. 
        
-       
-
-   
      * Scores by school spending
-       School Spending ranges were not impacted by the ninth-grade score changes.   
-       
-       
+     As with the district summary impact to the KPI's for student Passing Math, Reading and Overall Combined percentages can be seen per below:
+     
+      * % Passing Math decreased by 6%
+      * % Passing Reading decreased by 7%
+      * % Overall Passing decreased by 7%
+     
+     ![Scores_By_Spending](https://user-images.githubusercontent.com/89538802/134687928-c469fd5f-6758-40bd-aec2-2f0aaa76e661.png)
+
     
      * Scores by school size
+
+
 ***********************
 When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
 ***************************
