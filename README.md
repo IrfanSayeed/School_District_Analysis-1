@@ -64,6 +64,9 @@ Noted changes to the School District Analysis are as noted below:
 <img width="608" alt="Top5_Bottom5" src="https://user-images.githubusercontent.com/89538802/134685720-3e4a16ab-cb1c-410f-b207-44f991a47dde.PNG">
 
 
+<img width="1216" alt="Top5_Bottom5" src="https://user-images.githubusercontent.com/89538802/134685977-cc425f3d-213b-453e-a69a-31b1860e1aad.PNG">
+
+
 * **How does replacing the ninth-grade scores affect the following:**
      * Math and reading scores by grade
        The grade nine scores for Thomas High School will display NaN (Not a Number) for both Math and Reading scores with the re-assessment.  This ensured
