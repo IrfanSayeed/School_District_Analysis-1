@@ -11,6 +11,22 @@ The school board has notified Maria and her supervisor that the students_complet
 The purpose of the school district anlaysis is to aggregate the data to provide insights on performance trends and patterns on all standardized test data for analysis, reporting and presentations. This will allow the school board to have informed discussions and make strategic decisios on student funding, budgets and school priorities.
 
 ## **Results:**
+
+
+•	An overview of the key metrics for each school, presented in a table format
+•	Tables presenting each of the following metrics:
+o	Top 5 and bottom 5 performing schools, based on the overall passing rate
+o	The average math score received by students in each grade level at each school
+o	The average reading score received by students in each grade level at each school
+o	School performance based on the budget per student
+o	School performance based on the school size
+o	School performance based on the type of school
+
+
+
+
+
+
 A re-assessment of both the school summaries and individual school performance, show that the altered grade 9 math and reading scores skewed the inital testing results.  The analysis was repeated using scrubbed data, where all grade nine math and reading scores for Thomas High School were replaced with "NaN" values.  This affected 461 students of a total of 39170 high school students in the district. Representing 1% of the student population test scores.   
 
 Noted changes to the School District Analysis are as noted below: 
