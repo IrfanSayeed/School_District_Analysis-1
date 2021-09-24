@@ -107,9 +107,23 @@ Noted changes to the School District Analysis are as noted below:
 ## **Summary:**
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-1. change 1
-2. change 2
-3. change 3
-4. change 4
-5. 
-6. 
+1. Thomas High School dropped in overall ranking performance from 2nd place to 8th place.
+
+2. School Spending (Per Student) in bin $630-644 saw a decrease by:
+      
+      * % Passing Math decreased by 6%
+      * % Passing Reading decreased by 7%
+      * % Overall Passing decreased by 7%
+
+3. Medium (1000-2000) schools saw a decrease by:
+
+      * % Passing Math decreased by 8%
+      * % Passing Reading decreased by 6%
+      * % Overall Passing decreased by 6%
+
+4. Charter schools saw a decrease by:
+
+      * % Passing Math decreased by 4%
+      * % Passing Reading decreased by 4%
+      * % Overall Passing decreased by 3% 
+
