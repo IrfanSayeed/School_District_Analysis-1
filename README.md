@@ -54,9 +54,9 @@ Noted changes to the School District Analysis are as noted below:
 ![Top5_Bottom5](https://user-images.githubusercontent.com/89538802/134688731-95e8e0b2-fd86-45e1-b7ca-9363db73444e.PNG)
 
 * **How does replacing the ninth-grade scores affect the following:**
-* 
+
      * **Math and reading scores by grade**
-     * 
+   
        The grade nine scores for Thomas High School will display NaN (Not a Number) for both Math and Reading scores with the re-assessment.  This ensured
        that the tampered scores did not affect future calculations.  Had all grade nine scores or all of Thomas High School been subjected to NaN scores,
        both district and school averages would have been negatively impacted.
@@ -64,15 +64,15 @@ Noted changes to the School District Analysis are as noted below:
        As with the district summary impact to the KPI's for student Passing Math, Reading and Overall Combined percentages can be seen per below:
        
      * **Scores by school spending**
-     * 
+   
       * % Passing Math decreased by 6%
       * % Passing Reading decreased by 7%
       * % Overall Passing decreased by 7%
-      * 
+ 
      ![Scores_By_Spending](https://user-images.githubusercontent.com/89538802/134687928-c469fd5f-6758-40bd-aec2-2f0aaa76e661.png)
      
      * **Scores by school size**
-     * 
+
       * % Passing Math decreased by 8%
       * % Passing Reading decreased by 6%
       * % Overall Passing decreased by 6%
