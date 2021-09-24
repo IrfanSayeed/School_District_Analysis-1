@@ -43,17 +43,22 @@ Noted changes to the School District Analysis are as noted below:
       * % Passing Math decreased by 26.4%
       * % Passing Reading decreased by 27.5%
       * % Overall Passing decreased by 25.9%
+      
+      <img width="596" alt="Top 5 Performing" src="https://user-images.githubusercontent.com/89538802/134614276-3e8f3c12-6148-4b25-a004-119e322a495e.PNG">
 
 * **How does replacing the ninth-grade scores affect the following:**
-  * Math and reading scores by grade
-  The grade nine scores for Thomas High School will display NaN for both Math and Reading scores with the re-assessment.   
-   
-  * Scores by school spending
-********************
-When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
-**************************
+     * Math and reading scores by grade
+       The grade nine scores for Thomas High School will display NaN (Not a Number) for both Math and Reading scores with the re-assessment.  This ensured
+       that the tampered scores did not affect future calculations.  Had all grade nine scores or all of Thomas High School been subjected to NaN scores,
+       both district and school averages would have been negatively impacted. 
+       
+       
 
-  * Scores by school size
+   
+     * Scores by school spending
+       School Spending ranges were not impacted by the ninth-grade score changes.       
+    
+     * Scores by school size
 ***********************
 When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
 ***************************
