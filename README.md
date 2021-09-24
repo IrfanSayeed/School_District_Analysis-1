@@ -13,9 +13,7 @@ The purpose of the school district anlaysis is to aggregate the data to provide 
 ## **Results:**
 
 
-•	An overview of the key metrics for each school, presented in a table format
-•	Tables presenting each of the following metrics:
-o	Top 5 and bottom 5 performing schools, based on the overall passing rate
+
 o	The average math score received by students in each grade level at each school
 o	The average reading score received by students in each grade level at each school
 o	School performance based on the budget per student
@@ -60,7 +58,7 @@ Noted changes to the School District Analysis are as noted below:
       * % Passing Reading decreased by 27.5%
       * % Overall Passing decreased by 25.9%
       
-     
+ **Top 5 and bottom 5 performing schools**  
 <img width="596" alt="Top 5 Performing" src="https://user-images.githubusercontent.com/89538802/134614353-c6f1523a-a425-4d8b-9995-5dcacfffd3f0.PNG">
 
 * **How does replacing the ninth-grade scores affect the following:**
