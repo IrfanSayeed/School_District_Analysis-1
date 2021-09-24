@@ -10,13 +10,11 @@ The school board has notified Maria and her supervisor that the students_complet
 ## **Overview of the school district analysis:**
 The purpose of the school district anlaysis is to aggregate the data to provide insights on performance trends and patterns on all standardized test data for analysis, reporting and presentations. This will allow the school board to have informed discussions and make strategic decisios on student funding, budgets and school priorities.
 
-### **Challenge:**
-
 ## **Results:**
-The removal of the grade 9 Thomas High School scores affected the results of the School District Analysis as follows:
+A re-assessment of both the school summaries and individual school performance, show that the altered grade 9 math and reading scores skewed the inital testing results.  The analysis was repeated using scrubbed data, where all grade nine math and reading scores for Thomas High School were replaced with "NaN" values.  This affected 461 students of a total of xx high school students in the district.   Noted changes to the School District Analysis are as noted below: 
 
 * **How is the district summary affected?**
-The grade nine math and reading scores for Thomas High School were to be replaced with "NaN" values.  This affected 461 students of a total of xx students.   The impact was minimal and affected the overall average math score changed by -.1% when the analysis was rerun.
+ The overall district summary saw minimal impact, affecting only the overall average math score by minus 0.1%.
       
   ##### Original District Summary
 
@@ -36,9 +34,7 @@ The grade nine math and reading scores for Thomas High School were to be replace
   ##### Scrubbed Per School Summary
   ![Per_School_Summary_Scrubbed](https://user-images.githubusercontent.com/89538802/134528515-4218c2bb-3a38-4b99-824e-39dcf36b985b.PNG)
 
-********************************
-When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district
-***********************************
+
 
 ***How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
