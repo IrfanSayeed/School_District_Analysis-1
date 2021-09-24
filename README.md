@@ -25,6 +25,12 @@ Noted changes to the School District Analysis are as noted below:
 
  * **How is the school summary affected?**
  
+ A more significant change can be seen while reviewing the individual school summaries.  Noted below, Thomas High School sees a significant once re-assessed.  
+ All three KPI's for students Passing Math, Reading and Overall Combined percentages saw dramatic decreases.  Decreased noted below:
+      % Passing Math decreased by 26.4%
+      % Passing Reading decreased by 27.5%
+      % Overall Passing decreased by 25.9%
+ 
   ##### Original Per School Summary
   
   ![Per_School_Summary_Original](https://user-images.githubusercontent.com/89538802/134528076-2f2211f3-29de-455b-beba-3157935b0633.PNG)
