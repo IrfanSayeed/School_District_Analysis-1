@@ -47,8 +47,10 @@ Noted changes to the School District Analysis are as noted below:
 * **How does replacing the ninth-grade scores affect the following:**
   * Math and reading scores by grade
  
- 
- 
+   ##### Original Per School Math & Reading Scores
+   
+ <img width="530" alt="Per_School_Reading_Math_Original" src="https://user-images.githubusercontent.com/89538802/134605454-ac69ece6-7167-487d-96a7-9da8a84e0138.PNG">
+
    ##### Scrubbed Per School Math & Reading Scores
    
    <img width="573" alt="Per_School_Reading_Math_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134603714-a02dfcb1-2552-4cf7-b7d3-3280fdc276e3.PNG">
