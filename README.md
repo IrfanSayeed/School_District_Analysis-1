@@ -59,7 +59,10 @@ Noted changes to the School District Analysis are as noted below:
       * % Overall Passing decreased by 25.9%
       
  **Top 5 and bottom 5 performing schools**  
-<img width="596" alt="Top 5 Performing" src="https://user-images.githubusercontent.com/89538802/134614353-c6f1523a-a425-4d8b-9995-5dcacfffd3f0.PNG">
+ The greater impact can be seen in the top 5 performing schools.  Initially, Thomas High School ranked 2nd in the top performing schools; however, upon reassessment we can see Thomas High School falling out of the top 5 schools, from 2dn to 8th place.
+  
+<img width="325" alt="Top5_Bottom5" src="https://user-images.githubusercontent.com/89538802/134683869-4a7d5f43-f63c-43a6-b75d-7f5f4e0eabbc.PNG">
+
 
 * **How does replacing the ninth-grade scores affect the following:**
      * Math and reading scores by grade
