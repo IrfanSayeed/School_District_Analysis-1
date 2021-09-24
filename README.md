@@ -71,7 +71,9 @@ Noted changes to the School District Analysis are as noted below:
 
    
      * Scores by school spending
-       School Spending ranges were not impacted by the ninth-grade score changes.       
+       School Spending ranges were not impacted by the ninth-grade score changes.   
+       
+       
     
      * Scores by school size
 ***********************
