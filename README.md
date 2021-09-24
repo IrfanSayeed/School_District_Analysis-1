@@ -87,6 +87,7 @@ Noted changes to the School District Analysis are as noted below:
 
     
      * Scores by school size
+     
       The trend continues to be seen with school size, where a decrease is seen as per below:
       
       * % Passing Math decreased by 8%
