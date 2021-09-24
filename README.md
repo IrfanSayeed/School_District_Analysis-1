@@ -46,16 +46,15 @@ Noted changes to the School District Analysis are as noted below:
 
 * **How does replacing the ninth-grade scores affect the following:**
   * Math and reading scores by grade
-  * 
-  #### Reading
-  
-  <img width="231" alt="Reading_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545580-b61f8d5e-aec9-49ee-b999-699ebd4f8466.PNG">
+ 
+ 
+ 
+   ##### Scrubbed Per School Math & Reading Scores
+   
+   <img width="573" alt="Per_School_Reading_Math_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134603714-a02dfcb1-2552-4cf7-b7d3-3280fdc276e3.PNG">
 
-  ##### Math
-  
-  <img width="234" alt="Math_Grade_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134545621-b1fb2cd7-2cef-4ede-972e-2ca86fde31b7.PNG">
-
-
+   
+   
   * Scores by school spending
 ********************
 When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
