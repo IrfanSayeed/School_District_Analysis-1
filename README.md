@@ -17,12 +17,8 @@ Noted changes to the School District Analysis are as noted below:
 
 * **How is the district summary affected?**
 
- The overall district summary saw minimal impact, affecting only the overall average math score by minus 0.1%.
+ The overall district summary saw minimal impact, affecting only the overall average math score lowered by  0.1%.
       
-  ##### Original District Summary
-
-  <img width="720" alt="District_Summary_Original" src="https://user-images.githubusercontent.com/89538802/134520149-342d4e16-c5ce-4484-a088-d3f532a17899.PNG">
-
   ##### Scrubbed District Summary
 
   <img width="705" alt="District_Summary_Scrubbed" src="https://user-images.githubusercontent.com/89538802/134528624-bc9d17c2-a820-42e5-b825-332fcb0b8603.PNG">
