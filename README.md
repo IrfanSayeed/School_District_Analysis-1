@@ -61,8 +61,6 @@ Noted changes to the School District Analysis are as noted below:
  **Top 5 and bottom 5 performing schools**  
  The greater impact can be seen in the top 5 performing schools.  Initially, Thomas High School ranked 2nd in the top performing schools; however, upon reassessment we can see Thomas High School falling out of the top 5 schools, from 2dn to 8th place.
   
-<img width="608" alt="Top5_Bottom5" src="https://user-images.githubusercontent.com/89538802/134685720-3e4a16ab-cb1c-410f-b207-44f991a47dde.PNG">
-
 
 <img width="1216" alt="Top5_Bottom5" src="https://user-images.githubusercontent.com/89538802/134685977-cc425f3d-213b-453e-a69a-31b1860e1aad.PNG">
 
