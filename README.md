@@ -76,7 +76,7 @@ Noted changes to the School District Analysis are as noted below:
       * % Passing Math decreased by 8%
       * % Passing Reading decreased by 6%
       * % Overall Passing decreased by 6%
-      * 
+ 
 ![Scores_By_Size](https://user-images.githubusercontent.com/89538802/134689485-20e0b7d8-df47-481e-b854-9db7e350e862.png)
 
      * **Scores by school type**
